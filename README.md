@@ -2,5 +2,5 @@
 
 Below Operations have been performed
 - Filtering
-- Sorint
+- Sorting
 - Pagination
